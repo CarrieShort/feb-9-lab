@@ -15,7 +15,7 @@ if(outdoor) {
 }
 else {
   alert('I have a lovely selection of indoor venues.');
-};
+}
 var guests = prompt('How many guests will you have?');
 console.log('They will have ' + guests + ' guests');
 if(guests >= 60) {
